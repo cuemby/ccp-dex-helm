@@ -10,10 +10,10 @@ entries:
           image: ruber19/dex:1.0.1
     apiVersion: v2
     appVersion: 2.32.0
-    created: "2022-08-11T22:24:46.972723-05:00"
+    created: "2022-08-12T08:34:23.909551-05:00"
     description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
       connectors.
-    digest: d6a5f2913bfd693b76ded0138d11b852e01632b8d1f50d0d3fd961477800552f
+    digest: ceee74aa72c5b7a02e53bf147f49ddda661950797c2d9f4a28a14f2d2d25eb61
     home: https://github.com/cuemby/dex
     icon: https://dexidp.io/favicon.png
     keywords:
@@ -29,9 +29,9 @@ entries:
     name: dex
     sources:
     - https://github.com/cuemby/dex
-    - https://github.com/cuemby/ccp-dex-helm/tree/master
+    - https://github.com/cuemby/ccp-dex-helm/tree/main
     type: application
     urls:
     - dex-0.9.0.tgz
     version: 0.9.0
-generated: "2022-08-11T22:24:46.971432-05:00"
+generated: "2022-08-12T08:34:23.908661-05:00"
