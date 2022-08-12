@@ -1,0 +1,29 @@
+annotations:
+  artifacthub.io/changes: |
+    - kind: changed
+      description: "Update Dex to 2.32.0"
+  artifacthub.io/images: |
+    - name: dex
+      image: ruber19/dex:1.0.1
+apiVersion: v2
+appVersion: 2.32.0
+description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
+  connectors.
+home: https://github.com/cuemby/dex
+icon: https://dexidp.io/favicon.png
+keywords:
+- oidc
+- oauth
+- identity-provider
+- saml
+kubeVersion: '>=1.14.0-0'
+maintainers:
+  - email: ruber19@gmail.com
+    name: rootbean
+    url: https://github.com/rootbean
+name: dex
+sources:
+  - https://github.com/cuemby/dex
+  - https://github.com/cuemby/ccp-dex-helm/tree/master
+type: application
+version: 0.9.0
