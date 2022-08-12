@@ -24,6 +24,6 @@ maintainers:
 name: dex
 sources:
   - https://github.com/cuemby/dex
-  - https://github.com/cuemby/ccp-dex-helm/tree/master
+  - https://github.com/cuemby/ccp-dex-helm/tree/main
 type: application
 version: 0.9.0
