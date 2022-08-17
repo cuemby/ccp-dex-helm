@@ -7,13 +7,13 @@ entries:
           description: "Update Dex to 2.32.0"
       artifacthub.io/images: |
         - name: dex
-          image: ruber19/dex:1.0.1
+          image: ruber19/dex:1.0.2
     apiVersion: v2
     appVersion: 2.32.0
-    created: "2022-08-12T08:34:23.909551-05:00"
+    created: "2022-08-17T13:34:01.545174-05:00"
     description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
       connectors.
-    digest: ceee74aa72c5b7a02e53bf147f49ddda661950797c2d9f4a28a14f2d2d25eb61
+    digest: 2746f16f3ec30b84515a6cdf1398a873f1835e47203831c9f49ca7012b1e7f61
     home: https://github.com/cuemby/dex
     icon: https://dexidp.io/favicon.png
     keywords:
@@ -34,4 +34,4 @@ entries:
     urls:
     - dex-0.9.0.tgz
     version: 0.9.0
-generated: "2022-08-12T08:34:23.908661-05:00"
+generated: "2022-08-17T13:34:01.544036-05:00"

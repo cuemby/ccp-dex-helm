@@ -4,7 +4,7 @@ annotations:
       description: "Update Dex to 2.32.0"
   artifacthub.io/images: |
     - name: dex
-      image: ruber19/dex:1.0.1
+      image: ruber19/dex:1.0.2
 apiVersion: v2
 appVersion: 2.32.0
 description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable
